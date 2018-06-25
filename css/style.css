@@ -1,0 +1,57 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+/* Nav Bar */
+
+.navbar-fixed {
+    position: fixed;
+    z-index:999999999;
+}
+
+.nav-wrapper {
+    padding-top: 15px;
+    padding-right: 15px;
+}
+
+.white-background {
+    background-color: white;
+}
+
+.black-text {
+    color: black;
+}
+
+nav ul a {
+    font-size: 1.3rem;
+}
+
+.logo {
+    display: inline-block;
+    height: 64px;
+}
+
+/* Cover photo */
+
+.cover-photo {
+    height: 800px;
+    width: 100%;
+}
+
+/* Headshot */
+.headshot {
+    width: 100%;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-bottom: 35px;
+}
+
+/* About me */
+.about-me {
+    padding-top: 25px;
+}
+
+.about-me-bio {
+    padding-left: 20px;
+}
