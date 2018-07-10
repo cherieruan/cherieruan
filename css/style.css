@@ -35,7 +35,6 @@ nav ul a {
 /* Cover photo */
 
 .cover-photo {
-    height: 800px;
     width: 100%;
 }
 
@@ -50,6 +49,7 @@ nav ul a {
 /* About me */
 .about-me {
     padding-top: 25px;
+    padding-bottom: 50px;
 }
 
 .about-me-bio {
